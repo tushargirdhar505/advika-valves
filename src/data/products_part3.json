@@ -1,0 +1,2614 @@
+[
+  {
+    "id": "flowsid-051-ci-swing-type-nrv-sona",
+    "catalogItemNumber": 51,
+    "sourcePage": 18,
+    "sourceSection": "CAST IRON SWING TYPE NRV / REFLEX TYPE / SLUICE VALVE",
+    "originalName": "ITEM CAST IRON SWING TYPE NRV VALVE MAKE : SONA",
+    "displayName": "Cast Iron Swing Check Valve (Sona Make BS 1868)",
+    "slug": "flowsid-051-ci-swing-type-nrv-sona",
+    "category": "Cast Iron Swing NRV & Sluice Valves",
+    "subcategory": "Swing Check Valves",
+    "manufacturerOrMake": "SONA",
+    "descriptionShort": "BS 1868 flanged cast iron swing check valve with 13% Cr. stainless steel trims, manufactured by Sona.",
+    "descriptionLong": "Item 51 is a heavy swing check valve built in accordance with BS 1868 and tested to BS 6755 / API 598. Cast in ASTM A 216 / IS cast iron with high-tensile 13% Cr. Steel (SS 410) internal trims. Delivers low head-loss backflow isolation with hydrostatic proof ratings of 425 Psig (30 kg) body and 300 Psig (21.5 kg) seat across sizes 50mm to 200mm.",
+    "image": "/images/products/flowsid-051.png",
+    "imageSourcePage": 18,
+    "materials": {
+      "bodyCover": "ASTM A 216 Cast Iron",
+      "trims": "13% Cr. Steel (S.S 410)"
+    },
+    "design": "Flanged Swing Check Valve, Bolted Cover",
+    "connectionTypes": [
+      "Flanged Ends"
+    ],
+    "sizeVariants": [
+      {
+        "inch": "2\"",
+        "mm": 50
+      },
+      {
+        "inch": "2-1/2\"",
+        "mm": 65
+      },
+      {
+        "inch": "3\"",
+        "mm": 80
+      },
+      {
+        "inch": "4\"",
+        "mm": 100
+      },
+      {
+        "inch": "5\"",
+        "mm": 125
+      },
+      {
+        "inch": "6\"",
+        "mm": 150
+      },
+      {
+        "inch": "8\"",
+        "mm": 200
+      }
+    ],
+    "pressureRatings": "Body: 425 Psig (30 kg/cm\u00b2), Seat: 300 Psig (21.5 kg/cm\u00b2)",
+    "temperatureRatings": "High temperature utility service",
+    "standards": [
+      "MFG. STANDARD BS 1868",
+      "INSP. & TEST BS 6755 / API 598"
+    ],
+    "testingSpecifications": "Hyd. Test Body: 425 Psig (30 kg); Seat: 300 Psig (21.5 kg)",
+    "documentedApplications": [
+      "Water",
+      "Steam",
+      "Gas",
+      "Oil",
+      "Air"
+    ],
+    "technicalSpecifications": {
+      "Mfg Std": "BS 1868",
+      "Test Std": "BS 6755 / API 598",
+      "Body/Cover": "ASTM A 216 Cast Iron",
+      "Trims": "13% Cr. SS 410",
+      "Size Range": "50mm to 200mm",
+      "Make": "SONA"
+    },
+    "variantAttributes": [
+      {
+        "name": "Trim Grade",
+        "options": [
+          "13% Cr. Steel (SS 410)"
+        ]
+      }
+    ],
+    "extractionStatus": "verified",
+    "reviewNotes": "Preserves original manufacturer 'SONA' as stated in catalog."
+  },
+  {
+    "id": "flowsid-052-ci-reflex-valve-kalbana",
+    "catalogItemNumber": 52,
+    "sourcePage": 18,
+    "sourceSection": "CAST IRON SWING TYPE NRV / REFLEX TYPE / SLUICE VALVE",
+    "originalName": "ITEM C.I REFLAX VALVE (HEAVY DUTY) MAKE : KALBANA",
+    "displayName": "Cast Iron Heavy Duty Reflex Non-Return Valve (Kalbana Make)",
+    "slug": "flowsid-052-ci-reflex-valve-kalbana",
+    "category": "Cast Iron Swing NRV & Sluice Valves",
+    "subcategory": "Reflex Valves",
+    "manufacturerOrMake": "KALBANA",
+    "descriptionShort": "Heavy-duty cast iron reflex check valve for municipal waterworks and industrial pumping lines from 50mm to 350mm.",
+    "descriptionLong": "Item 52 is a heavy pattern reflex non-return valve manufactured by Kalbana. Cast from IS 210 Gr. FG 220 iron with flanged ends, designed to provide high flow capacity and instant check against reverse flow in water pumping and industrial headers. Covers a wide range from 2\" (50mm) to 14\" (350mm).",
+    "image": "/images/products/flowsid-052.png",
+    "imageSourcePage": 18,
+    "materials": {
+      "body": "Cast Iron IS 210 Gr. FG 220",
+      "door": "Cast Iron with Bronze / Gunmetal Trims"
+    },
+    "design": "Flanged Heavy Duty Reflex Non-Return Valve",
+    "connectionTypes": [
+      "Flange End"
+    ],
+    "sizeVariants": [
+      {
+        "inch": "2\"",
+        "mm": 50
+      },
+      {
+        "inch": "2-1/2\"",
+        "mm": 65
+      },
+      {
+        "inch": "3\"",
+        "mm": 80
+      },
+      {
+        "inch": "4\"",
+        "mm": 100
+      },
+      {
+        "inch": "5\"",
+        "mm": 125
+      },
+      {
+        "inch": "6\"",
+        "mm": 150
+      },
+      {
+        "inch": "8\"",
+        "mm": 200
+      },
+      {
+        "inch": "10\"",
+        "mm": 250
+      },
+      {
+        "inch": "12\"",
+        "mm": 300
+      },
+      {
+        "inch": "14\"",
+        "mm": 350
+      }
+    ],
+    "pressureRatings": "Industrial waterworks working pressure",
+    "temperatureRatings": "Ambient and process water temperatures",
+    "standards": [
+      "IS 210 Gr. FG 220"
+    ],
+    "testingSpecifications": "Hydrostatically seat and body tested",
+    "documentedApplications": [
+      "Water",
+      "Steam",
+      "Gas",
+      "Oil",
+      "Air"
+    ],
+    "technicalSpecifications": {
+      "Body": "Cast Iron IS 210 Gr. FG 220",
+      "Ends": "Flanged",
+      "Size Range": "50mm to 350mm",
+      "Make": "KALBANA"
+    },
+    "variantAttributes": [
+      {
+        "name": "Configuration",
+        "options": [
+          "Heavy Duty Flanged"
+        ]
+      }
+    ],
+    "extractionStatus": "verified",
+    "reviewNotes": "Preserves original manufacturer 'KALBANA'; sizes up to 350mm (14\")."
+  },
+  {
+    "id": "flowsid-053-ci-sluice-valve-kalbana-goldway-king",
+    "catalogItemNumber": 53,
+    "sourcePage": 18,
+    "sourceSection": "CAST IRON SWING TYPE NRV / REFLEX TYPE / SLUICE VALVE",
+    "originalName": "ITEM C.I SLUICE VALVE (HEAVY DUTY) MAKE : KALBANA/GOLDWAY/KING",
+    "displayName": "Cast Iron Heavy Duty Sluice Gate Valve (Kalbana / Goldway / King)",
+    "slug": "flowsid-053-ci-sluice-valve-kalbana-goldway-king",
+    "category": "Cast Iron Swing NRV & Sluice Valves",
+    "subcategory": "Sluice Valves",
+    "manufacturerOrMake": "KALBANA / GOLDWAY / KING",
+    "descriptionShort": "Heavy pattern flanged cast iron sluice valve with BS / IS flange drilling proof tested to 21 kg/cm\u00b2 (300 psig).",
+    "descriptionLong": "Item 53 is a traditional heavy-duty waterworks sluice gate valve manufactured by Kalbana / Goldway / King. Cast from IS 210 Gr. FG 220 cast iron with flanged ends drilled to BS Table / IS specifications. Incorporates a sturdy non-rising or rising spindle mechanism and tested hydrostatically to 21 kg/cm\u00b2 (300 psig) across sizes 2\" (50mm) to 14\" (350mm).",
+    "image": "/images/products/flowsid-053.png",
+    "imageSourcePage": 18,
+    "materials": {
+      "body": "Cast Iron IS 210 Gr. FG 220",
+      "wedge": "Cast Iron with Bronze Rings",
+      "spindle": "High Tensile Brass / SS"
+    },
+    "design": "Heavy Pattern Sluice Valve, Handwheel Operated",
+    "connectionTypes": [
+      "Flange End (Flanges as per BS Table Drilled / IS Drilling)"
+    ],
+    "sizeVariants": [
+      {
+        "inch": "2\"",
+        "mm": 50
+      },
+      {
+        "inch": "2-1/2\"",
+        "mm": 65
+      },
+      {
+        "inch": "3\"",
+        "mm": 80
+      },
+      {
+        "inch": "4\"",
+        "mm": 100
+      },
+      {
+        "inch": "5\"",
+        "mm": 125
+      },
+      {
+        "inch": "6\"",
+        "mm": 150
+      },
+      {
+        "inch": "8\"",
+        "mm": 200
+      },
+      {
+        "inch": "10\"",
+        "mm": 250
+      },
+      {
+        "inch": "12\"",
+        "mm": 300
+      },
+      {
+        "inch": "14\"",
+        "mm": 350
+      }
+    ],
+    "pressureRatings": "Body Test Pressure: 21 kg/sq. cm. G 300 Psig Hyd.",
+    "temperatureRatings": "Water utility distribution rating",
+    "standards": [
+      "IS 210 Gr. FG 220",
+      "BS Table Drilled / IS Drilling"
+    ],
+    "testingSpecifications": "Body Test Pressure: 21 kg/sq. cm. G 300 Psig Hyd.",
+    "documentedApplications": [
+      "Water",
+      "Steam",
+      "Gas",
+      "Oil",
+      "Air"
+    ],
+    "technicalSpecifications": {
+      "Body": "Cast Iron IS 210 Gr. FG 220",
+      "Drilling": "BS Table / IS Drilling",
+      "Body Test": "21 kg/cm\u00b2 (300 Psig)",
+      "Size Range": "50mm to 350mm",
+      "Make": "KALBANA / GOLDWAY / KING"
+    },
+    "variantAttributes": [
+      {
+        "name": "Configuration",
+        "options": [
+          "Heavy Pattern Flanged"
+        ]
+      }
+    ],
+    "extractionStatus": "verified",
+    "reviewNotes": "Preserves original manufacturer brands KALBANA/GOLDWAY/KING."
+  },
+  {
+    "id": "flowsid-054-ci-diaphragm-valve-sun-make",
+    "catalogItemNumber": 54,
+    "sourcePage": 19,
+    "sourceSection": "CAST IRON DIAPHRAGM VALVE",
+    "originalName": "ITEM CAST IRON DIAPHRAGM VALVE LINING : EBONITE RUBBER MAKE : SUN",
+    "displayName": "Cast Iron Diaphragm Valve (Sun Make BS 5156 Ebonite Lined)",
+    "slug": "flowsid-054-ci-diaphragm-valve-sun-make",
+    "category": "Cast Iron Diaphragm & Sluice Valves",
+    "subcategory": "Diaphragm Valves",
+    "manufacturerOrMake": "SUN",
+    "descriptionShort": "Weir type cast iron diaphragm valve with ebonite rubber lining and BS 5156 compliance, manufactured by Sun.",
+    "descriptionLong": "Item 54 is an engineered weir-type diaphragm valve built to BS 5156 standards and tested per BS 6755. Body and bonnet are cast from IS 210 Gr. FG 200 iron with corrosion-proof Ebonite Rubber Lining. Available with Flanged ends to BS 10 Table \"D\" and Screwed BSP connections. Hydrostatically tested at 213 Psig (15 kg/cm\u00b2) body and 142 Psig (10 kg/cm\u00b2) seat across 15mm to 200mm.",
+    "image": "/images/products/flowsid-054.png",
+    "imageSourcePage": 19,
+    "materials": {
+      "bodyBonnet": "IS 210 Gr. FG 200",
+      "lining": "Ebonite Rubber",
+      "diaphragm": "Rubber / Glass Lined Options"
+    },
+    "design": "Weir Pattern Diaphragm Valve, Ebonite Lined",
+    "connectionTypes": [
+      "Flanged To BS 10 Table \"D\"",
+      "Screwed BSP"
+    ],
+    "sizeVariants": [
+      {
+        "inch": "1/2\"",
+        "mm": 15
+      },
+      {
+        "inch": "3/4\"",
+        "mm": 20
+      },
+      {
+        "inch": "1\"",
+        "mm": 25
+      },
+      {
+        "inch": "1-1/4\"",
+        "mm": 32
+      },
+      {
+        "inch": "1-1/2\"",
+        "mm": 40
+      },
+      {
+        "inch": "2\"",
+        "mm": 50
+      },
+      {
+        "inch": "2-1/2\"",
+        "mm": 65
+      },
+      {
+        "inch": "3\"",
+        "mm": 80
+      },
+      {
+        "inch": "4\"",
+        "mm": 100
+      },
+      {
+        "inch": "5\"",
+        "mm": 125
+      },
+      {
+        "inch": "6\"",
+        "mm": 150
+      },
+      {
+        "inch": "8\"",
+        "mm": 200
+      }
+    ],
+    "pressureRatings": "Body: 213 Psig (15 kg/cm\u00b2), Seat: 142 Psig (10 kg/cm\u00b2)",
+    "temperatureRatings": "Ebonite rubber liner temperature rating",
+    "standards": [
+      "Mfg. Std. BS 5156",
+      "Insp. & Test BS 6755",
+      "BS 10 Table D"
+    ],
+    "testingSpecifications": "Hyd. Test Body: 213 Psig (15 kg/cm\u00b2); Seat: 142 Psig (10 kg/cm\u00b2)",
+    "documentedApplications": [
+      "Water",
+      "Steam",
+      "Gas",
+      "Oil",
+      "Air"
+    ],
+    "technicalSpecifications": {
+      "Mfg Std": "BS 5156",
+      "Test Std": "BS 6755",
+      "Body": "IS 210 Gr. FG 200",
+      "Lining": "Ebonite Rubber",
+      "Size Range": "15mm to 200mm",
+      "Make": "SUN"
+    },
+    "variantAttributes": [
+      {
+        "name": "Lining / Spare Option",
+        "options": [
+          "Rubber Lined",
+          "Glass Lined",
+          "Spare Rubber Diaphragm"
+        ]
+      }
+    ],
+    "extractionStatus": "verified",
+    "reviewNotes": "Preserves Sun make; options for Rubber lined, Glass lined, and Spare Rubber."
+  },
+  {
+    "id": "flowsid-055-ci-globe-valve-flanged-aarko",
+    "catalogItemNumber": 55,
+    "sourcePage": 19,
+    "sourceSection": "CAST IRON DIAPHRAGM VALVE",
+    "originalName": "ITEM C.I GLOBE VALVE FLANGE END (HEAVY DUTY) MAKE : AARKO",
+    "displayName": "Cast Iron Flanged Globe Valve (Heavy Duty Aarko Make)",
+    "slug": "flowsid-055-ci-globe-valve-flanged-aarko",
+    "category": "Cast Iron Diaphragm & Sluice Valves",
+    "subcategory": "Globe Valves",
+    "manufacturerOrMake": "AARKO",
+    "descriptionShort": "Heavy-duty flanged cast iron globe valve with BS table drilling and 21 kg/cm\u00b2 (300 psig) proof rating, made by Aarko.",
+    "descriptionLong": "Item 55 is an industrial throttling globe valve manufactured by Aarko. Cast from IS 210 Gr. FG 220 iron with flanged ends conforming to BS Table (drilled/undrilled). Features a precision contoured valve plug for reliable regulation and tight shut-off, hydrostatically proof tested to 21 kg/cm\u00b2 (300 psig) across sizes 15mm to 80mm.",
+    "image": "/images/products/flowsid-055.png",
+    "imageSourcePage": 19,
+    "materials": {
+      "body": "Cast Iron IS 210 Gr. FG 220",
+      "trims": "Gun Metal / Stainless Steel",
+      "handwheel": "Cast Iron Handwheel"
+    },
+    "design": "Flanged Globe Pattern Regulating Valve, Heavy Duty",
+    "connectionTypes": [
+      "Flange End as per BS Table Drilled / Undrilled"
+    ],
+    "sizeVariants": [
+      {
+        "inch": "1/2\"",
+        "mm": 15
+      },
+      {
+        "inch": "3/4\"",
+        "mm": 20
+      },
+      {
+        "inch": "1\"",
+        "mm": 25
+      },
+      {
+        "inch": "1-1/4\"",
+        "mm": 32
+      },
+      {
+        "inch": "1-1/2\"",
+        "mm": 40
+      },
+      {
+        "inch": "2\"",
+        "mm": 50
+      },
+      {
+        "inch": "3\"",
+        "mm": 80
+      }
+    ],
+    "pressureRatings": "Body Test Pressure: 21 kg/sq. cm. G 300 Psig Hyd.",
+    "temperatureRatings": "High temperature steam and liquid compatible",
+    "standards": [
+      "IS 210 Gr. FG 220",
+      "BS Table Flange"
+    ],
+    "testingSpecifications": "Body Test Pressure: 21 kg/sq. cm. G 300 Psig Hyd.",
+    "documentedApplications": [
+      "Water",
+      "Steam",
+      "Gas",
+      "Oil",
+      "Air"
+    ],
+    "technicalSpecifications": {
+      "Body": "Cast Iron IS 210 Gr. FG 220",
+      "Flanges": "BS Table Drilled/Undrilled",
+      "Body Test": "21 kg/cm\u00b2 (300 Psig)",
+      "Size Range": "15mm to 80mm",
+      "Make": "AARKO"
+    },
+    "variantAttributes": [
+      {
+        "name": "Configuration",
+        "options": [
+          "Heavy Duty Flanged"
+        ]
+      }
+    ],
+    "extractionStatus": "verified",
+    "reviewNotes": "Preserves original manufacturer 'AARKO'."
+  },
+  {
+    "id": "flowsid-056-ci-gate-valve-flanged-aarko",
+    "catalogItemNumber": 56,
+    "sourcePage": 19,
+    "sourceSection": "CAST IRON DIAPHRAGM VALVE",
+    "originalName": "ITEM C.I GATE VALVE FLANGED (HEAVY DUTY) FLANGED 150 # WORKING PARTS (S.S 304) MAKE : AARKO",
+    "displayName": "Cast Iron Flanged Gate Valve Class 150# (SS 304 Parts Aarko Make)",
+    "slug": "flowsid-056-ci-gate-valve-flanged-aarko",
+    "category": "Cast Iron Diaphragm & Sluice Valves",
+    "subcategory": "Gate Valves",
+    "manufacturerOrMake": "AARKO",
+    "descriptionShort": "Class 150 flanged cast iron gate valve with internal SS 304 working parts, manufactured by Aarko.",
+    "descriptionLong": "Item 56 is a heavy-duty Class 150# flanged gate valve manufactured by Aarko. Constructed with an iron body and upgraded stainless steel SS 304 working parts (stem, spindle, and seat rings) for enhanced wear and corrosion resistance in utility and process lines. Spans sizes 1/2\" (15mm) to 2\" (50mm).",
+    "image": "/images/products/flowsid-056.png",
+    "imageSourcePage": 19,
+    "materials": {
+      "body": "Cast Iron Heavy Duty",
+      "workingParts": "Stainless Steel (S.S 304)",
+      "handwheel": "Cast Iron"
+    },
+    "design": "Flanged Class 150# Gate Valve, SS 304 Internals",
+    "connectionTypes": [
+      "Flanged 150#"
+    ],
+    "sizeVariants": [
+      {
+        "inch": "1/2\"",
+        "mm": 15
+      },
+      {
+        "inch": "3/4\"",
+        "mm": 20
+      },
+      {
+        "inch": "1\"",
+        "mm": 25
+      },
+      {
+        "inch": "1-1/4\"",
+        "mm": 32
+      },
+      {
+        "inch": "1-1/2\"",
+        "mm": 40
+      },
+      {
+        "inch": "2\"",
+        "mm": 50
+      }
+    ],
+    "pressureRatings": "Flanged 150#",
+    "temperatureRatings": "Process utility operating temperature",
+    "standards": [
+      "Flanged 150# Standard"
+    ],
+    "testingSpecifications": "Shell and seat leakage tested",
+    "documentedApplications": [
+      "Water",
+      "Steam",
+      "Gas",
+      "Oil",
+      "Air"
+    ],
+    "technicalSpecifications": {
+      "Body": "Cast Iron",
+      "Working Parts": "SS 304",
+      "Rating": "Flanged 150#",
+      "Size Range": "15mm to 50mm",
+      "Make": "AARKO"
+    },
+    "variantAttributes": [
+      {
+        "name": "Configuration",
+        "options": [
+          "Flanged 150# with SS 304 Trim"
+        ]
+      }
+    ],
+    "extractionStatus": "verified",
+    "reviewNotes": "Preserves original manufacturer 'AARKO'; features SS 304 internals."
+  },
+  {
+    "id": "flowsid-057-forged-brass-ball-valve-aviko",
+    "catalogItemNumber": 57,
+    "sourcePage": 20,
+    "sourceSection": "BRASS BALL VALVES / BALANCING VALVE",
+    "originalName": "ITEM FORGED BRASS BALL VALVE MAKE : AVIKO",
+    "displayName": "Forged Brass Screwed Ball Valve (Aviko Make)",
+    "slug": "flowsid-057-forged-brass-ball-valve-aviko",
+    "category": "Brass & Balancing Valves",
+    "subcategory": "Brass Ball Valves",
+    "manufacturerOrMake": "AVIKO",
+    "descriptionShort": "High-density forged brass ball valve with brass ball, brass stem, and PTFE O-ring sealing, made by Aviko.",
+    "descriptionLong": "Item 57 is an industrial forged brass ball valve manufactured by Aviko. Hot-forged from high-grade brass alloy to eliminate porosity and casting defects. Equipped with hard chrome-plated brass ball, machined brass stem, and PTFE 'O' ring sealing for leak-tight quarter-turn shut-off. Available from 1/4\" (8mm) up to 4\" (100mm).",
+    "image": "/images/products/flowsid-057.png",
+    "imageSourcePage": 20,
+    "materials": {
+      "body": "Forged Brass",
+      "ball": "Brass Ball",
+      "stem": "Brass Stem",
+      "seal": "PTFE 'O' Ring",
+      "handle": "Steel Lever with Vinyl Grip"
+    },
+    "design": "Two-Piece Forged Brass Construction, Screwed Female",
+    "connectionTypes": [
+      "Screwed BSP Female Ends"
+    ],
+    "sizeVariants": [
+      {
+        "inch": "1/4\"",
+        "mm": 8
+      },
+      {
+        "inch": "3/8\"",
+        "mm": 10
+      },
+      {
+        "inch": "1/2\"",
+        "mm": 15
+      },
+      {
+        "inch": "3/4\"",
+        "mm": 20
+      },
+      {
+        "inch": "1\"",
+        "mm": 25
+      },
+      {
+        "inch": "1-1/4\"",
+        "mm": 32
+      },
+      {
+        "inch": "1.5\"",
+        "mm": 40
+      },
+      {
+        "inch": "2\"",
+        "mm": 50
+      },
+      {
+        "inch": "2.5\"",
+        "mm": 65
+      },
+      {
+        "inch": "3\"",
+        "mm": 80
+      },
+      {
+        "inch": "4\"",
+        "mm": 100
+      }
+    ],
+    "pressureRatings": "PN 16 / High utility pressure rating",
+    "temperatureRatings": "PTFE O-ring temperature rating (-10\u00b0C to 120\u00b0C)",
+    "standards": [
+      "Brass Valve Manufacturing Standard"
+    ],
+    "testingSpecifications": "Pneumatically and hydrostatically tested",
+    "documentedApplications": [
+      "Water",
+      "Steam",
+      "Gas",
+      "Oil",
+      "Air"
+    ],
+    "technicalSpecifications": {
+      "Body": "Brass",
+      "Ball": "Brass",
+      "Stem": "Brass",
+      "Seal": "PTFE 'O' Ring",
+      "Size Range": "1/4\" to 4\" (8mm to 100mm)",
+      "Make": "AVIKO"
+    },
+    "variantAttributes": [
+      {
+        "name": "Size",
+        "options": [
+          "1/4\"",
+          "3/8\"",
+          "1/2\"",
+          "3/4\"",
+          "1\"",
+          "1-1/4\"",
+          "1.5\"",
+          "2\"",
+          "2.5\"",
+          "3\"",
+          "4\""
+        ]
+      }
+    ],
+    "extractionStatus": "verified",
+    "reviewNotes": "Preserves original manufacturer 'AVIKO'; broad range from 1/4\" to 4\"."
+  },
+  {
+    "id": "flowsid-058-forged-brass-balancing-valve-pn16",
+    "catalogItemNumber": 58,
+    "sourcePage": 20,
+    "sourceSection": "BRASS BALL VALVES / BALANCING VALVE",
+    "originalName": "ITEM FORGED BRASS BALANCING VALVE PN - 16",
+    "displayName": "Forged Brass Hydronic Balancing Valve PN 16",
+    "slug": "flowsid-058-forged-brass-balancing-valve-pn16",
+    "category": "Brass & Balancing Valves",
+    "subcategory": "Balancing Valves",
+    "manufacturerOrMake": "FLOWSID",
+    "descriptionShort": "Precision hydronic balancing valve in forged brass with digital PVC indicator, test nozzles, and Teflon seat (PN 16).",
+    "descriptionLong": "Item 58 is a variable-orifice hydronic balancing valve engineered for HVAC chilled and hot water distribution balancing. Constructed with a forged brass body and bonnet, Teflon seat, calibrated PVC digital position indicator, brass disc, brass spindle, integral pressure test measurement nozzles, and brass face washer. Rated PN 16 from 1/2\" (15mm) to 2\" (50mm).",
+    "image": "/images/products/flowsid-058.png",
+    "imageSourcePage": 20,
+    "materials": {
+      "bodyBonnet": "Forged Brass",
+      "seat": "Teflon",
+      "indicator": "Calibrated PVC",
+      "disc": "Brass",
+      "oRing": "Rubber",
+      "spindle": "Brass",
+      "nozzle": "Brass Pressure Test Nozzles",
+      "faceWasher": "Brass"
+    },
+    "design": "Variable Orifice Hydronic Balancing Valve with P/T Nozzles",
+    "connectionTypes": [
+      "Screwed BSP Female Ends"
+    ],
+    "sizeVariants": [
+      {
+        "inch": "1/2\"",
+        "mm": 15
+      },
+      {
+        "inch": "3/4\"",
+        "mm": 20
+      },
+      {
+        "inch": "1\"",
+        "mm": 25
+      },
+      {
+        "inch": "1-1/4\"",
+        "mm": 32
+      },
+      {
+        "inch": "1-1/2\"",
+        "mm": 40
+      },
+      {
+        "inch": "2\"",
+        "mm": 50
+      }
+    ],
+    "pressureRatings": "PN - 16 (16 Bar)",
+    "temperatureRatings": "Chilled and hot water HVAC temperature ranges",
+    "standards": [
+      "PN-16 Hydronic Balancing Standard"
+    ],
+    "testingSpecifications": "Flow calibration and pressure tested",
+    "documentedApplications": [
+      "Water",
+      "Steam",
+      "Gas",
+      "Oil",
+      "Air"
+    ],
+    "technicalSpecifications": {
+      "Body": "Forged Brass",
+      "Rating": "PN-16",
+      "Seat": "Teflon",
+      "Nozzle": "Brass",
+      "Size Range": "15mm to 50mm",
+      "Make": "FLOWSID"
+    },
+    "variantAttributes": [
+      {
+        "name": "Configuration",
+        "options": [
+          "Forged Brass with P/T Nozzles PN-16"
+        ]
+      }
+    ],
+    "extractionStatus": "verified",
+    "reviewNotes": "Includes calibrated PVC position indicator and brass P/T test ports."
+  },
+  {
+    "id": "flowsid-059-ci-balancing-valve-pn16",
+    "catalogItemNumber": 59,
+    "sourcePage": 20,
+    "sourceSection": "BRASS BALL VALVES / BALANCING VALVE",
+    "originalName": "ITEM CAST IRON BALANCING VALVE RATING : PN-16",
+    "displayName": "Cast Iron Flanged Hydronic Balancing Valve PN 16",
+    "slug": "flowsid-059-ci-balancing-valve-pn16",
+    "category": "Brass & Balancing Valves",
+    "subcategory": "Balancing Valves",
+    "manufacturerOrMake": "FLOWSID",
+    "descriptionShort": "Large-bore flanged cast iron balancing valve with micrometer handwheel and test ports for heavy HVAC mains.",
+    "descriptionLong": "Item 59 is a large-diameter flanged balancing valve designed for main hydronic risers and central cooling plant balance. Cast in heavy iron and rated for PN-16 working pressure. Features precision flow throttling plug, differential pressure measurement ports, and digital position handwheel. Spans sizes from 125mm (5\") up to 200mm.",
+    "image": "/images/products/flowsid-059.png",
+    "imageSourcePage": 20,
+    "materials": {
+      "body": "Cast Iron",
+      "trims": "Bronze / Stainless Steel",
+      "indicator": "Digital Regulating Handwheel"
+    },
+    "design": "Flanged Y-Pattern Hydronic Balancing Valve, PN 16",
+    "connectionTypes": [
+      "Flanged Ends PN-16"
+    ],
+    "sizeVariants": [
+      {
+        "inch": "5\"",
+        "mm": 125
+      }
+    ],
+    "pressureRatings": "RATING : PN-16 (16 Bar)",
+    "temperatureRatings": "HVAC chilled and heating water service",
+    "standards": [
+      "PN-16 Flange Standard"
+    ],
+    "testingSpecifications": "Pressure and seat tightness verified",
+    "documentedApplications": [
+      "Water",
+      "Steam",
+      "Gas",
+      "Oil",
+      "Air"
+    ],
+    "technicalSpecifications": {
+      "Body": "Cast Iron",
+      "Rating": "PN-16",
+      "Size Range": "125 mm TO 200 MM (Documented Size: 125mm / 5\")",
+      "Make": "FLOWSID"
+    },
+    "variantAttributes": [
+      {
+        "name": "Size",
+        "options": [
+          "5\" (125mm)"
+        ]
+      }
+    ],
+    "extractionStatus": "verified",
+    "reviewNotes": "Catalog documents 5\" (125mm) with range notation 125mm to 200mm."
+  },
+  {
+    "id": "flowsid-060-cs-globe-valve-flanged-connect-ce",
+    "catalogItemNumber": 60,
+    "sourcePage": 21,
+    "sourceSection": "CAST STEEL GLOBE VALVE / GATE VALVE / BALL VALVE",
+    "originalName": "ITEM CAST STEEL GLOBE VALVE F/E ND 40 / 150 # Connect (CE)",
+    "displayName": "Cast Steel Flanged Globe Valve ND 40 / Class 150# (Connect CE)",
+    "slug": "flowsid-060-cs-globe-valve-flanged-connect-ce",
+    "category": "Cast Steel Valves",
+    "subcategory": "Globe Valves",
+    "manufacturerOrMake": "Connect (CE)",
+    "descriptionShort": "Cast steel WCB globe valve conforming generally to BS 1873 with DIN 2545 flanged ends, made by Connect (CE).",
+    "descriptionLong": "Item 60 is an industrial cast steel globe valve manufactured by Connect (CE). Cast in ASTM A 216 Gr. WCB with durable 13% Cr. Steel (SS 410) trims. Conforms generally to BS 1873 and tested to BS 6755. Flanged to DIN 2545 / ND 40 / 150#, rated for 854 Psig (60 kg) body and 569 Psig (40 kg) seat hydraulic test pressure across sizes 15mm to 300mm.",
+    "image": "/images/products/flowsid-060.png",
+    "imageSourcePage": 21,
+    "materials": {
+      "bodyBonnet": "ASTM A 216 Gr. WCB",
+      "trims": "13% Cr. Steel (SS 410)",
+      "handwheel": "Malleable Iron"
+    },
+    "design": "OS&Y Bolted Bonnet Globe Valve, DIN 2545 Flanged",
+    "connectionTypes": [
+      "Flanged To DIN 2545 (ND 40 / 150#)"
+    ],
+    "sizeVariants": [
+      {
+        "inch": "1/2\"",
+        "mm": 15
+      },
+      {
+        "inch": "3/4\"",
+        "mm": 20
+      },
+      {
+        "inch": "1\"",
+        "mm": 25
+      },
+      {
+        "inch": "1-1/2\"",
+        "mm": 40
+      },
+      {
+        "inch": "2\"",
+        "mm": 50
+      },
+      {
+        "inch": "2-1/2\"",
+        "mm": 65
+      },
+      {
+        "inch": "3\"",
+        "mm": 80
+      },
+      {
+        "inch": "4\"",
+        "mm": 100
+      },
+      {
+        "inch": "5\"",
+        "mm": 125
+      },
+      {
+        "inch": "6\"",
+        "mm": 150
+      },
+      {
+        "inch": "8\"",
+        "mm": 200
+      },
+      {
+        "inch": "10\"",
+        "mm": 250
+      },
+      {
+        "inch": "12\"",
+        "mm": 300
+      }
+    ],
+    "pressureRatings": "Body: 854 Psig (60 kg/cm\u00b2), Seat: 569 Psig (40 kg/cm\u00b2), ND 40 / 150#",
+    "temperatureRatings": "High temperature high pressure steam/hydrocarbon service",
+    "standards": [
+      "Generally Confirming TO BS 1873",
+      "INSP.& TEST BS 6755",
+      "Flanged DIN 2545"
+    ],
+    "testingSpecifications": "Hyd. Test Body: 854 Psig (60 kg); Seat: 569 Psig (40 kg)",
+    "documentedApplications": [
+      "Water",
+      "Steam",
+      "Gas",
+      "Oil",
+      "Air"
+    ],
+    "technicalSpecifications": {
+      "Body/Bonnet": "ASTM A 216 Gr. WCB",
+      "Trims": "13% Cr. (SS 410)",
+      "Test Pressure": "854 Psig Body / 569 Psig Seat",
+      "Size Range": "15mm to 300mm",
+      "Make": "Connect (CE)"
+    },
+    "variantAttributes": [
+      {
+        "name": "Pressure Rating",
+        "options": [
+          "Class 150# / ND 40 DIN 2545"
+        ]
+      }
+    ],
+    "extractionStatus": "verified",
+    "reviewNotes": "Preserves original make 'Connect (CE)'; 854 Psig body test pressure."
+  },
+  {
+    "id": "flowsid-061-cs-gate-valve-flanged-connect-ce",
+    "catalogItemNumber": 61,
+    "sourcePage": 21,
+    "sourceSection": "CAST STEEL GLOBE VALVE / GATE VALVE / BALL VALVE",
+    "originalName": "ITEM CAST STEEL GATE VALVE F/E ASA- 150 # Connect (CE)",
+    "displayName": "Cast Steel Flanged Gate Valve Class 150# (Connect CE API 600)",
+    "slug": "flowsid-061-cs-gate-valve-flanged-connect-ce",
+    "category": "Cast Steel Valves",
+    "subcategory": "Gate Valves",
+    "manufacturerOrMake": "Connect (CE)",
+    "descriptionShort": "API 600 compliant cast steel WCB gate valve with ANSI B 16.5 RF Class 150 flanges, made by Connect (CE).",
+    "descriptionLong": "Item 61 is an API 600 cast steel gate valve manufactured by Connect (CE). Body and bonnet are cast from ASTM A 216 Gr. WCB carbon steel with 13% Cr. Steel (SS 410) trims. Inspected to API 598 with raised-face flanges to ANSI B 16.5 RF (Class 150). Features 425 Psig body and 300 Psig seat test pressure across sizes 1\" (25mm) to 16\" (400mm).",
+    "image": "/images/products/flowsid-061.png",
+    "imageSourcePage": 21,
+    "materials": {
+      "bodyBonnet": "ASTM A 216 Gr. WCB",
+      "trims": "13% Cr. Steel (SS 410)",
+      "handwheel": "Fabricated Steel"
+    },
+    "design": "OS&Y Rising Spindle, Flexible Wedge, Flanged Class 150#",
+    "connectionTypes": [
+      "Flanged To ANSI B 16.5 RF - 150 #"
+    ],
+    "sizeVariants": [
+      {
+        "inch": "1\"",
+        "mm": 25
+      },
+      {
+        "inch": "1-1/2\"",
+        "mm": 40
+      },
+      {
+        "inch": "2\"",
+        "mm": 50
+      },
+      {
+        "inch": "2-1/2\"",
+        "mm": 65
+      },
+      {
+        "inch": "3\"",
+        "mm": 80
+      },
+      {
+        "inch": "4\"",
+        "mm": 100
+      },
+      {
+        "inch": "5\"",
+        "mm": 125
+      },
+      {
+        "inch": "6\"",
+        "mm": 150
+      },
+      {
+        "inch": "8\"",
+        "mm": 200
+      },
+      {
+        "inch": "10\"",
+        "mm": 250
+      },
+      {
+        "inch": "12\"",
+        "mm": 300
+      },
+      {
+        "inch": "14\"",
+        "mm": 350
+      },
+      {
+        "inch": "16\"",
+        "mm": 400
+      }
+    ],
+    "pressureRatings": "Body: 425 Psig (30 kg/cm\u00b2), Seat: 300 Psig (21 kg/cm\u00b2), ASA 150#",
+    "temperatureRatings": "High temperature hydrocarbon and refinery service",
+    "standards": [
+      "MFG. STANDARD API 600",
+      "INSP.& TEST API 598",
+      "ANSI B 16.5 RF 150#"
+    ],
+    "testingSpecifications": "Hyd. Test Body: 425 Psig (30 kg); Seat: 300 Psig (21 kg)",
+    "documentedApplications": [
+      "Water",
+      "Steam",
+      "Gas",
+      "Oil",
+      "Air"
+    ],
+    "technicalSpecifications": {
+      "Mfg Std": "API 600",
+      "Test Std": "API 598",
+      "Body": "ASTM A 216 WCB",
+      "Trims": "13% Cr. SS 410",
+      "Flanges": "ANSI B 16.5 RF 150#",
+      "Size Range": "25mm to 400mm",
+      "Make": "Connect (CE)"
+    },
+    "variantAttributes": [
+      {
+        "name": "Rating",
+        "options": [
+          "Class 150# Flanged"
+        ]
+      }
+    ],
+    "extractionStatus": "verified",
+    "reviewNotes": "Covers 1\" (25mm) up to 16\" (400mm); Connect (CE) make."
+  },
+  {
+    "id": "flowsid-062-cs-ball-valve-flanged-flowsid-150",
+    "catalogItemNumber": 62,
+    "sourcePage": 21,
+    "sourceSection": "CAST STEEL GLOBE VALVE / GATE VALVE / BALL VALVE",
+    "originalName": "ITEM FLOWSID MAKE C.S. BALL VALVE THREE PIECE DESIGN FLANGED 150#",
+    "displayName": "Cast Steel Three-Piece Flanged Ball Valve (Class 150# Flowsid)",
+    "slug": "flowsid-062-cs-ball-valve-flanged-flowsid-150",
+    "category": "Cast Steel Valves",
+    "subcategory": "Ball Valves",
+    "manufacturerOrMake": "FLOWSID",
+    "descriptionShort": "Three-piece straight pattern cast steel ball valve with AISI 304 ball, Teflon seat, and Class 150# flanges.",
+    "descriptionLong": "Item 62 is a three-piece flanged cast steel ball valve from Flowsid. Constructed with a straight-pattern cast steel body, stainless steel AISI 304 ball, AISI 410 stem, renewable Teflon seats, and Teflon packing rings. Flanged ends conform to IS 3516-1966 Class 150#. Hydrostatically tested to 32 Barg (500 psig hyd.) across sizes 15mm to 200mm.",
+    "image": "/images/products/flowsid-062.png",
+    "imageSourcePage": 21,
+    "materials": {
+      "body": "Cast Steel IS 210 Gr. FG 220 / WCB",
+      "ball": "Stainless Steel AISI 304",
+      "stem": "AISI 410 Stem",
+      "seat": "Renewable Teflon",
+      "gland": "Teflon Rings"
+    },
+    "design": "Three Piece Design, Straight Pattern, Class 150# Flanged",
+    "connectionTypes": [
+      "Flanges As Per IS 3516-1966 150 # / 300 #"
+    ],
+    "sizeVariants": [
+      {
+        "inch": "1/2\"",
+        "mm": 15
+      },
+      {
+        "inch": "3/4\"",
+        "mm": 20
+      },
+      {
+        "inch": "1\"",
+        "mm": 25
+      },
+      {
+        "inch": "1-1/4\"",
+        "mm": 32
+      },
+      {
+        "inch": "1-1/2\"",
+        "mm": 40
+      },
+      {
+        "inch": "2\"",
+        "mm": 50
+      },
+      {
+        "inch": "2-1/2\"",
+        "mm": 65
+      },
+      {
+        "inch": "3\"",
+        "mm": 80
+      },
+      {
+        "inch": "4\"",
+        "mm": 100
+      },
+      {
+        "inch": "5\"",
+        "mm": 125
+      },
+      {
+        "inch": "6\"",
+        "mm": 150
+      },
+      {
+        "inch": "8\"",
+        "mm": 200
+      }
+    ],
+    "pressureRatings": "Body Test Pressure: 32 Barg 500 Psig Hyd., Flanges 150#",
+    "temperatureRatings": "Teflon seat operating range up to 180\u00b0C",
+    "standards": [
+      "IS 3516-1966 (Flanges)",
+      "Manufacturing Standard"
+    ],
+    "testingSpecifications": "Body Test Pressure: 32 Barg 500 Psig Hyd.",
+    "documentedApplications": [
+      "Water",
+      "Steam",
+      "Gas",
+      "Oil",
+      "Air"
+    ],
+    "technicalSpecifications": {
+      "Body": "Cast Steel",
+      "Ball": "AISI 304",
+      "Seat": "Renewable Teflon",
+      "Flanges": "IS 3516 150#",
+      "Size Range": "15mm to 200mm",
+      "Make": "FLOWSID"
+    },
+    "variantAttributes": [
+      {
+        "name": "Flange Standard",
+        "options": [
+          "Class 150#"
+        ]
+      }
+    ],
+    "extractionStatus": "verified",
+    "reviewNotes": "Three-piece cast steel flanged ball valve spanning 15mm to 200mm."
+  },
+  {
+    "id": "flowsid-063-forged-ball-valve-screwed-800",
+    "catalogItemNumber": 63,
+    "sourcePage": 22,
+    "sourceSection": "FORGED BALL VALVE THREADED / CS SWING TYPE NAV",
+    "originalName": "ITEM FORGED BALL VALVE (SCREWED 800#) Connect (CE)",
+    "displayName": "Forged Carbon Steel Screwed Ball Valve Class 800# (Connect CE)",
+    "slug": "flowsid-063-forged-ball-valve-screwed-800",
+    "category": "Cast Steel Valves",
+    "subcategory": "Forged Ball Valves",
+    "manufacturerOrMake": "Connect (CE)",
+    "descriptionShort": "Class 800# forged steel ball valve with AISI 304 ball and GFT (Glass Filled Teflon) seating, made by Connect (CE).",
+    "descriptionLong": "Item 63 is a high-pressure forged ball valve built to BS 5156 and tested to BS 6755 by Connect (CE). Constructed with an ASTM A 216 Gr. WCB / forged steel body, AISI 304 stainless steel ball and stem, and Glass Filled Teflon (GFT) seat and seals. Designed with female Screwed BSP ends and flanged options to BS 10 Table \"D\", tested to 213 Psig (15 kg) body and 142 Psig (10 kg) seat.",
+    "image": "/images/products/flowsid-063.png",
+    "imageSourcePage": 22,
+    "materials": {
+      "body": "ASTM A 216 Gr. WCB / Forged Steel",
+      "ball": "AISI 304",
+      "stem": "AISI 304",
+      "seatSeal": "GFT (Glass Filled Teflon)"
+    },
+    "design": "Forged Steel Compact Ball Valve, Class 800# Pattern",
+    "connectionTypes": [
+      "Screwed BSP",
+      "Flanged to BS 10 Table \"D\""
+    ],
+    "sizeVariants": [
+      {
+        "inch": "1/2\"",
+        "mm": 15
+      },
+      {
+        "inch": "3/4\"",
+        "mm": 20
+      },
+      {
+        "inch": "1\"",
+        "mm": 25
+      },
+      {
+        "inch": "1-1/4\"",
+        "mm": 32
+      },
+      {
+        "inch": "1-1/2\"",
+        "mm": 40
+      },
+      {
+        "inch": "2\"",
+        "mm": 50
+      }
+    ],
+    "pressureRatings": "Class 800# (Hyd. Test Body: 213 Psig / 15 kg; Seat: 142 Psig / 10 kg)",
+    "temperatureRatings": "High temperature resistant Glass Filled Teflon (GFT) rating",
+    "standards": [
+      "MFG. STD. BS 5156",
+      "INSP.& TEST BS 6755",
+      "BS 10 Table D"
+    ],
+    "testingSpecifications": "Hyd. Test Body: 213 Psig (15 kg/cm\u00b2); Seat: 142 Psig (10 kg/cm\u00b2)",
+    "documentedApplications": [
+      "Water",
+      "Steam",
+      "Gas",
+      "Oil",
+      "Air"
+    ],
+    "technicalSpecifications": {
+      "Mfg Std": "BS 5156",
+      "Test Std": "BS 6755",
+      "Body": "ASTM A 216 WCB",
+      "Ball/Stem": "AISI 304",
+      "Seat": "GFT",
+      "Size Range": "15mm to 50mm",
+      "Make": "Connect (CE)"
+    },
+    "variantAttributes": [
+      {
+        "name": "End Connection",
+        "options": [
+          "Screwed BSP",
+          "Flanged BS 10 Table D"
+        ]
+      }
+    ],
+    "extractionStatus": "verified",
+    "reviewNotes": "Features Glass Filled Teflon (GFT) seats and Connect (CE) make."
+  },
+  {
+    "id": "flowsid-064-cs-swing-type-nrv-150-connect-flowsid",
+    "catalogItemNumber": 64,
+    "sourcePage": 22,
+    "sourceSection": "FORGED BALL VALVE THREADED / CS SWING TYPE NAV",
+    "originalName": "ITEM CAST STEEL SWING TYPE N R V F/E ASA - 150 # MAKE : CONNECT/FLOWSID",
+    "displayName": "Cast Steel Swing Check Valve Class 150# (Connect / Flowsid)",
+    "slug": "flowsid-064-cs-swing-type-nrv-150-connect-flowsid",
+    "category": "Cast Steel Valves",
+    "subcategory": "Swing Check Valves",
+    "manufacturerOrMake": "CONNECT / FLOWSID",
+    "descriptionShort": "BS 1868 / API 6D cast steel swing non-return valve with ANSI B 16.5 RF Class 150 flanges and 13% Cr trims.",
+    "descriptionLong": "Item 64 is an industrial swing non-return check valve manufactured under Connect / Flowsid standards. Built to BS 1868 and API 6D specifications with inspection to BS 6755 / API 598. Features ASTM A 216 Gr. WCB body and cover with 13% Cr. Steel (SS 410) trims. Raised-face flanges conform to ANSI B 16.5 RF (Class 150), hydrostatically tested to 425 Psig body and 300 Psig seat across sizes 25mm to 300mm.",
+    "image": "/images/products/flowsid-064.png",
+    "imageSourcePage": 22,
+    "materials": {
+      "bodyCover": "ASTM 216 Gr. WCB",
+      "trims": "13 % Cr. Steel (SS 410)"
+    },
+    "design": "Bolted Cover Swing Check Valve, Full Flow Passage",
+    "connectionTypes": [
+      "Flanged To ANSI B 16.5 RF 150 #"
+    ],
+    "sizeVariants": [
+      {
+        "inch": "1\"",
+        "mm": 25
+      },
+      {
+        "inch": "1-1/2\"",
+        "mm": 40
+      },
+      {
+        "inch": "2\"",
+        "mm": 50
+      },
+      {
+        "inch": "2-1/2\"",
+        "mm": 65
+      },
+      {
+        "inch": "3\"",
+        "mm": 80
+      },
+      {
+        "inch": "4\"",
+        "mm": 100
+      },
+      {
+        "inch": "5\"",
+        "mm": 125
+      },
+      {
+        "inch": "6\"",
+        "mm": 150
+      },
+      {
+        "inch": "8\"",
+        "mm": 200
+      },
+      {
+        "inch": "10\"",
+        "mm": 250
+      },
+      {
+        "inch": "12\"",
+        "mm": 300
+      }
+    ],
+    "pressureRatings": "Body: 425 Psig (30 kg/cm\u00b2), Seat: 300 Psig (21 kg/cm\u00b2), ASA 150#",
+    "temperatureRatings": "High temperature hydrocarbon/steam utility service",
+    "standards": [
+      "Mfg. Std. BS 1868 / API 6D",
+      "Insp. & Test BS 6755 / API 598",
+      "ANSI B 16.5 RF 150#"
+    ],
+    "testingSpecifications": "Hyd. Test Body: 425 Psig (30 kg); Seat: 300 Psig (21 kg)",
+    "documentedApplications": [
+      "Water",
+      "Steam",
+      "Gas",
+      "Oil",
+      "Air"
+    ],
+    "technicalSpecifications": {
+      "Mfg Std": "BS 1868 / API 6D",
+      "Test Std": "API 598",
+      "Body": "ASTM 216 Gr. WCB",
+      "Trims": "13% Cr. SS 410",
+      "Size Range": "25mm to 300mm",
+      "Make": "CONNECT / FLOWSID"
+    },
+    "variantAttributes": [
+      {
+        "name": "Rating",
+        "options": [
+          "Class 150# Flanged"
+        ]
+      }
+    ],
+    "extractionStatus": "verified",
+    "reviewNotes": "Dual manufacturer designation CONNECT/FLOWSID."
+  },
+  {
+    "id": "flowsid-065-cs-y-type-strainer-flanged-flowsid-150",
+    "catalogItemNumber": 65,
+    "sourcePage": 22,
+    "sourceSection": "FORGED BALL VALVE THREADED / CS SWING TYPE NAV",
+    "originalName": "ITEM CAST STEEL Y TYPE STRAINER F/E ASA -150 # MAKE : FLOWSID",
+    "displayName": "Cast Steel Flanged Y-Type Strainer Class 150# (Flowsid ASME B 16.34)",
+    "slug": "flowsid-065-cs-y-type-strainer-flanged-flowsid-150",
+    "category": "Cast Steel Valves",
+    "subcategory": "Y-Strainers",
+    "manufacturerOrMake": "FLOWSID",
+    "descriptionShort": "ASME B 16.34 flanged Class 150 cast steel Y-strainer with SS 304 screen for high-pressure pipeline protection.",
+    "descriptionLong": "Item 65 is an ASME B 16.34 compliant cast steel Y-strainer manufactured by Flowsid and tested to API 598. Body is cast from ASTM A 216 Gr. WCB with an internal precision-perforated SS 304 screen. Flanged to ANSI B 16.5 RF (Class 150), rated for 425 Psig body test pressure. Available in sizes 25mm to 200mm (with 250mm & 300mm supplied on request).",
+    "image": "/images/products/flowsid-065.png",
+    "imageSourcePage": 22,
+    "materials": {
+      "body": "ASTM A 216 Gr. WCB",
+      "screen": "S.S 304 Perforated Mesh"
+    },
+    "design": "Flanged Y-Type Strainer, ASME B 16.34 Standard",
+    "connectionTypes": [
+      "Flanged To ANSI B 16.5 RF 150 #"
+    ],
+    "sizeVariants": [
+      {
+        "inch": "1\"",
+        "mm": 25
+      },
+      {
+        "inch": "1-1/2\"",
+        "mm": 40
+      },
+      {
+        "inch": "2\"",
+        "mm": 50
+      },
+      {
+        "inch": "2-1/2\"",
+        "mm": 65
+      },
+      {
+        "inch": "3\"",
+        "mm": 80
+      },
+      {
+        "inch": "4\"",
+        "mm": 100
+      },
+      {
+        "inch": "5\"",
+        "mm": 125
+      },
+      {
+        "inch": "6\"",
+        "mm": 150
+      },
+      {
+        "inch": "8\"",
+        "mm": 200
+      }
+    ],
+    "pressureRatings": "Hyd. Test Pressure: 425 Psig (30 kg/cm\u00b2), ASA -150 #",
+    "temperatureRatings": "High temperature petroleum and steam service",
+    "standards": [
+      "MFG. STANDARD ASME B 16.34",
+      "INSP.& TEST API 598",
+      "ANSI B 16.5 RF 150#"
+    ],
+    "testingSpecifications": "Hyd. Test Pressure: 425 Psig (30 kg)",
+    "documentedApplications": [
+      "Water",
+      "Steam",
+      "Gas",
+      "Oil",
+      "Air"
+    ],
+    "technicalSpecifications": {
+      "Mfg Std": "ASME B 16.34",
+      "Test Std": "API 598",
+      "Body": "ASTM A 216 WCB",
+      "Screen": "SS 304",
+      "Size Range": "25mm to 200mm (250 & 300 on request)",
+      "Make": "FLOWSID"
+    },
+    "variantAttributes": [
+      {
+        "name": "Rating",
+        "options": [
+          "Class 150# Flanged"
+        ]
+      }
+    ],
+    "extractionStatus": "verified",
+    "reviewNotes": "Documented range 25mm to 200mm, with 250mm and 300mm on request."
+  },
+  {
+    "id": "flowsid-066-thermodynamic-steam-trap-410-td3",
+    "catalogItemNumber": 66,
+    "sourcePage": 23,
+    "sourceSection": "FORGED STEM TRAP / BUSCKET TYPE",
+    "originalName": "ITEM 410 STEAM TRAP THERMO DYNAMIC Td3 MAKE : CONNECT",
+    "displayName": "Thermodynamic Steam Trap Td3 (CA-15 / 410 Stainless Steel)",
+    "slug": "flowsid-066-thermodynamic-steam-trap-410-td3",
+    "category": "Steam Traps",
+    "subcategory": "Thermodynamic Steam Traps",
+    "manufacturerOrMake": "CONNECT",
+    "descriptionShort": "High-pressure thermodynamic steam trap Td3 in investment cast 410 (CA-15) steel rated up to 425\u00b0C.",
+    "descriptionLong": "Item 66 is a thermodynamic disc steam trap designed for efficient condensate drainage from steam headers, tracing, and process equipment. Body is investment cast in high-hardness 410 stainless steel (CA-15) with precision-lapped disc. Features screwed female BSP ends, tested to 450 Psig (32 kg/cm\u00b2) with maximum operating temperature of 425\u00b0C across sizes 15mm, 20mm, and 25mm.",
+    "image": "/images/products/flowsid-066.png",
+    "imageSourcePage": 23,
+    "materials": {
+      "body": "Investment Casting 410 (CA-15)",
+      "disc": "Hardened Stainless Steel Disc"
+    },
+    "design": "Thermodynamic Disc Type Steam Trap Td3",
+    "connectionTypes": [
+      "Screwed BSP (Female)"
+    ],
+    "sizeVariants": [
+      {
+        "inch": "1/2\"",
+        "mm": 15
+      },
+      {
+        "inch": "3/4\"",
+        "mm": 20
+      },
+      {
+        "inch": "1\"",
+        "mm": 25
+      }
+    ],
+    "pressureRatings": "Hyd. Test Body: 450 Psig (32 kg/cm\u00b2)",
+    "temperatureRatings": "Max Temperature: 425\u00b0C",
+    "standards": [
+      "Steam Trap Manufacturing Standard"
+    ],
+    "testingSpecifications": "Hyd. Test Body: 450 Psig (32 kg/cm\u00b2)",
+    "documentedApplications": [
+      "Water",
+      "Steam",
+      "Gas",
+      "Oil",
+      "Air"
+    ],
+    "technicalSpecifications": {
+      "Body": "410 (CA-15)",
+      "Model": "Td3",
+      "Test Pressure": "450 Psig",
+      "Max Temp": "425\u00b0C",
+      "Sizes": "15mm, 20mm, 25mm",
+      "Make": "CONNECT"
+    },
+    "variantAttributes": [
+      {
+        "name": "Size",
+        "options": [
+          "1/2\" (15mm)",
+          "3/4\" (20mm)",
+          "1\" (25mm)"
+        ]
+      }
+    ],
+    "extractionStatus": "verified",
+    "reviewNotes": "Thermodynamic Td3 model rated to 425\u00b0C and 450 Psig."
+  },
+  {
+    "id": "flowsid-067-bucket-type-steam-trap-horizontal",
+    "catalogItemNumber": 67,
+    "sourcePage": 23,
+    "sourceSection": "FORGED STEM TRAP / BUSCKET TYPE",
+    "originalName": "ITEM BUCKET TYPE STREAM TRAP (HORIZONTAL LINE) MAKE : CONNECT",
+    "displayName": "Inverted Bucket Steam Trap (Horizontal Line Connect Make)",
+    "slug": "flowsid-067-bucket-type-steam-trap-horizontal",
+    "category": "Steam Traps",
+    "subcategory": "Inverted Bucket Traps",
+    "manufacturerOrMake": "CONNECT",
+    "descriptionShort": "Inverted bucket steam trap for horizontal pipelines with Gun Metal & SS trims, rated for 220\u00b0C.",
+    "descriptionLong": "Item 67 is an inverted bucket steam trap engineered for horizontal steam piping lines. Constructed with an IS 210 FG 210 cast iron body and wear-resistant Gun Metal & Stainless Steel internal valve mechanism. Provides continuous condensate discharge with complete resistance to water hammer, rated for 150 Psig (10.54 kg/cm\u00b2) and 220\u00b0C from 15mm to 50mm.",
+    "image": "/images/products/flowsid-067.png",
+    "imageSourcePage": 23,
+    "materials": {
+      "body": "Cast Iron (IS 210 FG 210)",
+      "trims": "Gun Metal & S.S.",
+      "bucket": "Stainless Steel Bucket"
+    },
+    "design": "Inverted Bucket Steam Trap for Horizontal Mounting",
+    "connectionTypes": [
+      "Screwed BSP (Female)"
+    ],
+    "sizeVariants": [
+      {
+        "inch": "1/2\"",
+        "mm": 15
+      },
+      {
+        "inch": "3/4\"",
+        "mm": 20
+      },
+      {
+        "inch": "1\"",
+        "mm": 25
+      },
+      {
+        "inch": "1.5\"",
+        "mm": 40
+      },
+      {
+        "inch": "2\"",
+        "mm": 50
+      }
+    ],
+    "pressureRatings": "Hyd. Test Body: 150 Psig (10.54 kg/cm\u00b2)",
+    "temperatureRatings": "Temperature: 220\u00b0C",
+    "standards": [
+      "Steam Trap Manufacturing Standard"
+    ],
+    "testingSpecifications": "Body Test Pressure: 150 Psig (10.54 kg/cm\u00b2)",
+    "documentedApplications": [
+      "Water",
+      "Steam",
+      "Gas",
+      "Oil",
+      "Air"
+    ],
+    "technicalSpecifications": {
+      "Body": "Cast Iron (IS 210 FG 210)",
+      "Trims": "Gun Metal & S.S.",
+      "Line Orientation": "Horizontal",
+      "Operating Temp": "220\u00b0C",
+      "Size Range": "15mm to 50mm",
+      "Make": "CONNECT"
+    },
+    "variantAttributes": [
+      {
+        "name": "Size",
+        "options": [
+          "1/2\"",
+          "3/4\"",
+          "1\"",
+          "1.5\"",
+          "2\""
+        ]
+      }
+    ],
+    "extractionStatus": "verified",
+    "reviewNotes": "Horizontal line inverted bucket trap rated to 220\u00b0C."
+  },
+  {
+    "id": "flowsid-068-ball-type-steam-trap-horizontal",
+    "catalogItemNumber": 68,
+    "sourcePage": 23,
+    "sourceSection": "FORGED STEM TRAP / BUSCKET TYPE",
+    "originalName": "ITEM BALL TYPE STREAM TRAP (HORIZONTAL LINE) MAKE : CONNECT",
+    "displayName": "Ball Float Steam Trap (Horizontal Line Connect Make)",
+    "slug": "flowsid-068-ball-type-steam-trap-horizontal",
+    "category": "Steam Traps",
+    "subcategory": "Float Steam Traps",
+    "manufacturerOrMake": "CONNECT",
+    "descriptionShort": "Continuous-discharge ball float steam trap for horizontal installation with thermostatic air venting (220\u00b0C).",
+    "descriptionLong": "Item 68 is a ball float steam trap manufactured by Connect for horizontal steam process lines. Built with an IS 210 FG 210 cast iron body and precision Gun Metal & SS trims. Modulates automatically to discharge condensate immediately upon formation without steam loss, hydrostatically tested to 150 Psig (10.54 kg/cm\u00b2) at 220\u00b0C across 15mm to 50mm.",
+    "image": "/images/products/flowsid-068.png",
+    "imageSourcePage": 23,
+    "materials": {
+      "body": "Cast Iron (IS 210 FG 210)",
+      "trims": "Gun Metal & S.S.",
+      "float": "Stainless Steel Float Ball"
+    },
+    "design": "Ball Float Steam Trap for Horizontal Line Installation",
+    "connectionTypes": [
+      "Screwed BSP (Female)"
+    ],
+    "sizeVariants": [
+      {
+        "inch": "1/2\"",
+        "mm": 15
+      },
+      {
+        "inch": "3/4\"",
+        "mm": 20
+      },
+      {
+        "inch": "1\"",
+        "mm": 25
+      },
+      {
+        "inch": "1.5\"",
+        "mm": 40
+      },
+      {
+        "inch": "2\"",
+        "mm": 50
+      }
+    ],
+    "pressureRatings": "Hyd. Test Body: 150 Psig (10.54 kg/cm\u00b2)",
+    "temperatureRatings": "Temperature: 220\u00b0C",
+    "standards": [
+      "Steam Trap Manufacturing Standard"
+    ],
+    "testingSpecifications": "Body Test Pressure: 150 Psig (10.54 kg/cm\u00b2)",
+    "documentedApplications": [
+      "Water",
+      "Steam",
+      "Gas",
+      "Oil",
+      "Air"
+    ],
+    "technicalSpecifications": {
+      "Body": "Cast Iron IS 210 FG 210",
+      "Trims": "Gun Metal & S.S.",
+      "Orientation": "Horizontal",
+      "Operating Temp": "220\u00b0C",
+      "Size Range": "15mm to 50mm",
+      "Make": "CONNECT"
+    },
+    "variantAttributes": [
+      {
+        "name": "Size",
+        "options": [
+          "1/2\"",
+          "3/4\"",
+          "1\"",
+          "1.5\"",
+          "2\""
+        ]
+      }
+    ],
+    "extractionStatus": "verified",
+    "reviewNotes": "Ball float horizontal line trap rated to 220\u00b0C."
+  },
+  {
+    "id": "flowsid-069-forged-steel-globe-valve-800",
+    "catalogItemNumber": 69,
+    "sourcePage": 24,
+    "sourceSection": "FORGED CRATE / GLOBE / NRV",
+    "originalName": "ITEM FORGED GLOBE VALVE 800 # A- 105 ASA - 800 # MAKE : CONNECT",
+    "displayName": "Forged Carbon Steel Globe Valve Class 800# (ASTM A 105 Connect)",
+    "slug": "flowsid-069-forged-steel-globe-valve-800",
+    "category": "Forged Steel 800# Valves",
+    "subcategory": "Forged Globe Valves",
+    "manufacturerOrMake": "CONNECT",
+    "descriptionShort": "High-pressure Class 800# ASTM A 105 forged steel globe valve built to API 602 / BS 5352 standards.",
+    "descriptionLong": "Item 69 is an ultra-heavy-duty forged carbon steel globe valve designed for severe high-pressure high-temperature service. Body and bolted bonnet are hot-forged from ASTM A 105 with 13% Cr. Steel (SS 410) hard-faced trims. Conforms to API 602 and BS 5352, tested per API 598 and BS 6755 (Part 1). Available with screwed BSP/BSPT/NPT female ends and socketweld connections to ANSI B 16.11, hydrostatically tested to 3000 Psig (211 kg) body and 2000 Psig (140 kg) seat.",
+    "image": "/images/products/flowsid-069.png",
+    "imageSourcePage": 24,
+    "materials": {
+      "bodyBonnet": "ASTM A 105 Forged Carbon Steel",
+      "trims": "13% Cr. Steel (SS 410)",
+      "handwheel": "Malleable Iron Handwheel"
+    },
+    "design": "OS&Y Bolted Bonnet Forged Globe Valve, Class 800#",
+    "connectionTypes": [
+      "Screwed To BSP/BSPT/NPT (Female)",
+      "Socketweld To ANSI B 16.11"
+    ],
+    "sizeVariants": [
+      {
+        "inch": "1/2\"",
+        "mm": 15
+      },
+      {
+        "inch": "3/4\"",
+        "mm": 20
+      },
+      {
+        "inch": "1\"",
+        "mm": 25
+      },
+      {
+        "inch": "1-1/2\"",
+        "mm": 40
+      },
+      {
+        "inch": "2\"",
+        "mm": 50
+      }
+    ],
+    "pressureRatings": "A-105 ASA-800# (Body: 3000 Psig / 211 kg; Seat: 2000 Psig / 140 kg)",
+    "temperatureRatings": "High temperature petroleum and boiler steam service",
+    "standards": [
+      "Mfg. Std. API 602 / BS 5352",
+      "Insp. & Test. API 598 / BS 6755 (PART 1)",
+      "ANSI B 16.11"
+    ],
+    "testingSpecifications": "Hyd. Test Body: 3000 Psig (211 kg); Seat: 2000 Psig (140 kg)",
+    "documentedApplications": [
+      "Water",
+      "Steam",
+      "Gas",
+      "Oil",
+      "Air"
+    ],
+    "technicalSpecifications": {
+      "Mfg Std": "API 602 / BS 5352",
+      "Test Std": "API 598",
+      "Body": "ASTM A 105",
+      "Rating": "Class 800#",
+      "Body Test": "3000 Psig",
+      "Size Range": "15mm to 50mm",
+      "Make": "CONNECT"
+    },
+    "variantAttributes": [
+      {
+        "name": "End Connection",
+        "options": [
+          "Screwed BSP/NPT Female",
+          "Socketweld ANSI B 16.11"
+        ]
+      }
+    ],
+    "extractionStatus": "verified",
+    "reviewNotes": "Class 800# rating with 3000 Psig body proof test."
+  },
+  {
+    "id": "flowsid-070-forged-steel-gate-valve-800",
+    "catalogItemNumber": 70,
+    "sourcePage": 24,
+    "sourceSection": "FORGED CRATE / GLOBE / NRV",
+    "originalName": "ITEM FORGED GATE VALVE 800 # A- 105 ASA - 800 # MAKE : CONNECT",
+    "displayName": "Forged Carbon Steel Gate Valve Class 800# (ASTM A 105 Connect)",
+    "slug": "flowsid-070-forged-steel-gate-valve-800",
+    "category": "Forged Steel 800# Valves",
+    "subcategory": "Forged Gate Valves",
+    "manufacturerOrMake": "CONNECT",
+    "descriptionShort": "Class 800# forged carbon steel gate valve with solid wedge and 13% Cr trims, manufactured to API 602.",
+    "descriptionLong": "Item 70 is an API 602 compliant forged steel gate valve designed for rugged isolation under high pressure. Forged in ASTM A 105 with bolted bonnet, outside screw & yoke (OS&Y), rising stem, and 13% Cr. Steel (SS 410) trims. Inspected to API 598 and BS 6755. Features screwed BSP/BSPT/NPT female ends and socketweld ends to ANSI B 16.11 with 3000 Psig body and 2000 Psig seat test pressures.",
+    "image": "/images/products/flowsid-070.png",
+    "imageSourcePage": 24,
+    "materials": {
+      "bodyBonnet": "ASTM A 105 Forged Carbon Steel",
+      "trims": "13% Cr. Steel (SS 410)",
+      "handwheel": "Heavy Steel Handwheel"
+    },
+    "design": "OS&Y Rising Stem Bolted Bonnet Gate Valve, Class 800#",
+    "connectionTypes": [
+      "Screwed To BSP/BSPT/NPT (Female)",
+      "Socketweld To ANSI B 16.11"
+    ],
+    "sizeVariants": [
+      {
+        "inch": "1/2\"",
+        "mm": 15
+      },
+      {
+        "inch": "3/4\"",
+        "mm": 20
+      },
+      {
+        "inch": "1\"",
+        "mm": 25
+      },
+      {
+        "inch": "1-1/2\"",
+        "mm": 40
+      },
+      {
+        "inch": "2\"",
+        "mm": 50
+      }
+    ],
+    "pressureRatings": "A-105 ASA-800# (Body: 3000 Psig / 211 kg; Seat: 2000 Psig / 140 kg)",
+    "temperatureRatings": "High temperature petroleum and boiler steam service",
+    "standards": [
+      "Mfg. Std. API 602 / BS 5352",
+      "Insp. & Test. API 598 / BS 6755 (PART 1)",
+      "ANSI B 16.11"
+    ],
+    "testingSpecifications": "Hyd. Test Body: 3000 Psig (211 kg); Seat: 2000 Psig (140 kg)",
+    "documentedApplications": [
+      "Water",
+      "Steam",
+      "Gas",
+      "Oil",
+      "Air"
+    ],
+    "technicalSpecifications": {
+      "Mfg Std": "API 602 / BS 5352",
+      "Test Std": "API 598",
+      "Body": "ASTM A 105",
+      "Rating": "Class 800#",
+      "Body Test": "3000 Psig",
+      "Size Range": "15mm to 50mm",
+      "Make": "CONNECT"
+    },
+    "variantAttributes": [
+      {
+        "name": "End Connection",
+        "options": [
+          "Screwed BSP/NPT Female",
+          "Socketweld ANSI B 16.11"
+        ]
+      }
+    ],
+    "extractionStatus": "verified",
+    "reviewNotes": "Solid wedge gate valve in Class 800# forged steel."
+  },
+  {
+    "id": "flowsid-071-forged-steel-nrv-valve-800",
+    "catalogItemNumber": 71,
+    "sourcePage": 24,
+    "sourceSection": "FORGED CRATE / GLOBE / NRV",
+    "originalName": "ITEM FORGED N R V VALVE A- 105 ASA - 800 # MAKE : CONNECT",
+    "displayName": "Forged Carbon Steel Lift Check Valve Class 800# (Connect API 602)",
+    "slug": "flowsid-071-forged-steel-nrv-valve-800",
+    "category": "Forged Steel 800# Valves",
+    "subcategory": "Forged Check Valves",
+    "manufacturerOrMake": "CONNECT",
+    "descriptionShort": "Class 800# forged carbon steel non-return lift check valve with bolted cover and 13% Cr trims to API 602.",
+    "descriptionLong": "Item 71 is a high-pressure forged steel piston lift check valve manufactured by Connect. Built in ASTM A 105 forged carbon steel with bolted cap, guided piston disc, and 13% Cr. Steel (SS 410) trims. Conforms to API 602 and BS 5352 with API 598 testing. Offers screwed BSP/BSPT/NPT female ends and socketweld connections to ANSI B 16.11 with 3000 Psig body and 2000 Psig seat hydrostatic test ratings.",
+    "image": "/images/products/flowsid-071.png",
+    "imageSourcePage": 24,
+    "materials": {
+      "bodyBonnet": "ASTM A 105 Forged Carbon Steel",
+      "trims": "13% Cr. Steel (SS 410)"
+    },
+    "design": "Bolted Cap Piston Lift Check Valve, Class 800#",
+    "connectionTypes": [
+      "Screwed To BSP/BSPT/NPT (Female)",
+      "Socketweld To ANSI B 16.11"
+    ],
+    "sizeVariants": [
+      {
+        "inch": "1/2\"",
+        "mm": 15
+      },
+      {
+        "inch": "3/4\"",
+        "mm": 20
+      },
+      {
+        "inch": "1\"",
+        "mm": 25
+      },
+      {
+        "inch": "1-1/2\"",
+        "mm": 40
+      },
+      {
+        "inch": "2\"",
+        "mm": 50
+      }
+    ],
+    "pressureRatings": "A-105 ASA-800# (Body: 3000 Psig / 211 kg; Seat: 2000 Psig / 140 kg)",
+    "temperatureRatings": "High temperature process and refinery service",
+    "standards": [
+      "Mfg. Std. API 602 / BS 5352",
+      "Insp. & Test. API 598 / BS 6755 (PART 1)",
+      "ANSI B 16.11"
+    ],
+    "testingSpecifications": "Hyd. Test Body: 3000 Psig (211 kg); Seat: 2000 Psig (140 kg)",
+    "documentedApplications": [
+      "Water",
+      "Steam",
+      "Gas",
+      "Oil",
+      "Air"
+    ],
+    "technicalSpecifications": {
+      "Mfg Std": "API 602 / BS 5352",
+      "Test Std": "API 598",
+      "Body": "ASTM A 105",
+      "Rating": "Class 800#",
+      "Body Test": "3000 Psig",
+      "Size Range": "15mm to 50mm",
+      "Make": "CONNECT"
+    },
+    "variantAttributes": [
+      {
+        "name": "End Connection",
+        "options": [
+          "Screwed BSP/NPT Female",
+          "Socketweld ANSI B 16.11"
+        ]
+      }
+    ],
+    "extractionStatus": "verified",
+    "reviewNotes": "Piston lift check valve with 3000 Psig body test pressure."
+  },
+  {
+    "id": "flowsid-072-pp-three-piece-ball-valve-cpi",
+    "catalogItemNumber": 72,
+    "sourcePage": 25,
+    "sourceSection": "POLYPROPLENE BALL / FOOT VALVE",
+    "originalName": "ITEM POLYPROPYLENE Three Piece Ball Valve MAKE : Shree Ram, CPI",
+    "displayName": "Polypropylene (PP) 3-Piece Ball Valve (Shree Ram / CPI)",
+    "slug": "flowsid-072-pp-three-piece-ball-valve-cpi",
+    "category": "Polypropylene (PP) Valves",
+    "subcategory": "PP Ball Valves",
+    "manufacturerOrMake": "Shree Ram, CPI",
+    "descriptionShort": "Chemical-resistant virgin polypropylene 3-piece ball valve with 13% Cr trims in screwed and flanged ends.",
+    "descriptionLong": "Item 72 is an industrial polypropylene (PP) ball valve built for highly corrosive chemical acids, alkalis, and electroplating lines. Formulated from premium homopolymer polypropylene with 13% Cr. Steel (SS 410) tie rods and trims. Available in Screwed ends (15mm to 100mm) and Flanged ends (15mm to 300mm), manufactured under the Shree Ram / CPI brands.",
+    "image": "/images/products/flowsid-072.png",
+    "imageSourcePage": 25,
+    "materials": {
+      "body": "Polypropylene (PP)",
+      "trims": "13% Cr. Steel (SS 410)",
+      "seat": "PTFE / Virgin Polypropylene"
+    },
+    "design": "Three Piece Bolted Body Polypropylene Ball Valve",
+    "connectionTypes": [
+      "Screwed End BSP",
+      "Flanged End"
+    ],
+    "sizeVariants": [
+      {
+        "inch": "1/2\"",
+        "mm": 15
+      },
+      {
+        "inch": "3/4\"",
+        "mm": 20
+      },
+      {
+        "inch": "1\"",
+        "mm": 25
+      },
+      {
+        "inch": "1-1/2\"",
+        "mm": 40
+      },
+      {
+        "inch": "2\"",
+        "mm": 50
+      },
+      {
+        "inch": "2-1/2\"",
+        "mm": 65
+      },
+      {
+        "inch": "3\"",
+        "mm": 80
+      },
+      {
+        "inch": "4\"",
+        "mm": 100
+      },
+      {
+        "inch": "5\"",
+        "mm": 125
+      },
+      {
+        "inch": "6\"",
+        "mm": 150
+      },
+      {
+        "inch": "8\"",
+        "mm": 200
+      },
+      {
+        "inch": "10\"",
+        "mm": 250
+      },
+      {
+        "inch": "12\"",
+        "mm": 300
+      }
+    ],
+    "pressureRatings": "Chemical piping rated (10 kg/cm\u00b2)",
+    "temperatureRatings": "Max PP operating temperature up to 80\u00b0C",
+    "standards": [
+      "Chemical Valve Standard"
+    ],
+    "testingSpecifications": "Chemical pressure and seat tested",
+    "documentedApplications": [
+      "Water",
+      "Steam",
+      "Gas",
+      "Oil",
+      "Air"
+    ],
+    "technicalSpecifications": {
+      "Body": "Polypropylene",
+      "Trims": "13% Cr. SS 410",
+      "End Types": "Screwed & Flanged",
+      "Screwed Range": "15mm to 100mm",
+      "Flanged Range": "15mm to 300mm",
+      "Make": "Shree Ram, CPI"
+    },
+    "variantAttributes": [
+      {
+        "name": "End Connection",
+        "options": [
+          "Screwed End (15mm to 100mm)",
+          "Flanged End (15mm to 300mm)"
+        ]
+      }
+    ],
+    "extractionStatus": "verified",
+    "reviewNotes": "Documented in Screwed (15-100mm) and Flanged (15-300mm) configurations."
+  },
+  {
+    "id": "flowsid-073-pp-foot-valve-cpi",
+    "catalogItemNumber": 73,
+    "sourcePage": 25,
+    "sourceSection": "POLYPROPLENE BALL / FOOT VALVE",
+    "originalName": "ITEM POLYPROPYLENE FOOT Valve MAKE : CPI",
+    "displayName": "Polypropylene (PP) Foot Valve (CPI Make)",
+    "slug": "flowsid-073-pp-foot-valve-cpi",
+    "category": "Polypropylene (PP) Valves",
+    "subcategory": "PP Foot Valves",
+    "manufacturerOrMake": "CPI",
+    "descriptionShort": "All-plastic polypropylene foot valve with integrated strainer for corrosive acid/alkali suction lines up to 300mm.",
+    "descriptionLong": "Item 73 is an all-polypropylene suction foot valve manufactured by CPI. Designed specifically for chemical pumping where metal valves suffer aggressive attack. Features a heavy PP body, non-corroding internal check disc, and integral polypropylene intake screen. Available in both Screwed and Flanged ends across sizes 1\" (25mm) to 12\" (300mm).",
+    "image": "/images/products/flowsid-073.png",
+    "imageSourcePage": 25,
+    "materials": {
+      "body": "Polypropylene (PP)",
+      "strainer": "Polypropylene Slotted Screen"
+    },
+    "design": "Polypropylene Suction Foot Valve with Integrated Strainer",
+    "connectionTypes": [
+      "Screwed End",
+      "Flanged End"
+    ],
+    "sizeVariants": [
+      {
+        "inch": "1\"",
+        "mm": 25
+      },
+      {
+        "inch": "1-1/2\"",
+        "mm": 40
+      },
+      {
+        "inch": "2\"",
+        "mm": 50
+      },
+      {
+        "inch": "2-1/2\"",
+        "mm": 65
+      },
+      {
+        "inch": "3\"",
+        "mm": 80
+      },
+      {
+        "inch": "4\"",
+        "mm": 100
+      },
+      {
+        "inch": "6\"",
+        "mm": 150
+      },
+      {
+        "inch": "8\"",
+        "mm": 200
+      },
+      {
+        "inch": "10\"",
+        "mm": 250
+      },
+      {
+        "inch": "12\"",
+        "mm": 300
+      }
+    ],
+    "pressureRatings": "Chemical suction working pressure",
+    "temperatureRatings": "Ambient and corrosive liquid operating range",
+    "standards": [
+      "CPI Chemical Piping Standard"
+    ],
+    "testingSpecifications": "Suction seal leakage tested",
+    "documentedApplications": [
+      "Water",
+      "Steam",
+      "Gas",
+      "Oil",
+      "Air"
+    ],
+    "technicalSpecifications": {
+      "Body": "Polypropylene",
+      "Ends": "Screwed & Flanged",
+      "Size Range": "25mm to 300mm",
+      "Make": "CPI"
+    },
+    "variantAttributes": [
+      {
+        "name": "End Connection",
+        "options": [
+          "Flanged End",
+          "Screwed End"
+        ]
+      }
+    ],
+    "extractionStatus": "verified",
+    "reviewNotes": "Available in Flanged and Screwed variants up to 300mm (12\")."
+  },
+  {
+    "id": "flowsid-074-pp-non-return-valve-cpi",
+    "catalogItemNumber": 74,
+    "sourcePage": 25,
+    "sourceSection": "POLYPROPLENE BALL / FOOT VALVE",
+    "originalName": "ITEM POLYPROPYLENE NON RETRUN Valve MAKE : CPI",
+    "displayName": "Polypropylene (PP) Non-Return Check Valve (CPI Make)",
+    "slug": "flowsid-074-pp-non-return-valve-cpi",
+    "category": "Polypropylene (PP) Valves",
+    "subcategory": "PP Check Valves",
+    "manufacturerOrMake": "CPI",
+    "descriptionShort": "Corrosion-proof polypropylene non-return check valve in screwed and flanged connections for acid/alkali pipelines.",
+    "descriptionLong": "Item 74 is an in-line polypropylene check valve engineered by CPI for complete corrosion immunity in chemical piping. Designed with a smooth internal chamber and resilient sealing disc to prevent liquid backflow in corrosive process circuits. Available with Screwed ends and Flanged ends across sizes 1\" (25mm) to 12\" (300mm).",
+    "image": "/images/products/flowsid-074.png",
+    "imageSourcePage": 25,
+    "materials": {
+      "body": "Polypropylene (PP)",
+      "disc": "Polypropylene / Elastomer Seal"
+    },
+    "design": "Polypropylene In-Line Non-Return Check Valve",
+    "connectionTypes": [
+      "Screwed End",
+      "Flanged End"
+    ],
+    "sizeVariants": [
+      {
+        "inch": "1\"",
+        "mm": 25
+      },
+      {
+        "inch": "1-1/2\"",
+        "mm": 40
+      },
+      {
+        "inch": "2\"",
+        "mm": 50
+      },
+      {
+        "inch": "2-1/2\"",
+        "mm": 65
+      },
+      {
+        "inch": "3\"",
+        "mm": 80
+      },
+      {
+        "inch": "4\"",
+        "mm": 100
+      },
+      {
+        "inch": "6\"",
+        "mm": 150
+      },
+      {
+        "inch": "8\"",
+        "mm": 200
+      },
+      {
+        "inch": "10\"",
+        "mm": 250
+      },
+      {
+        "inch": "12\"",
+        "mm": 300
+      }
+    ],
+    "pressureRatings": "Chemical process line pressure rating",
+    "temperatureRatings": "Polypropylene chemical temperature limit (up to 80\u00b0C)",
+    "standards": [
+      "CPI Chemical Piping Standard"
+    ],
+    "testingSpecifications": "Backpressure seat tightness tested",
+    "documentedApplications": [
+      "Water",
+      "Steam",
+      "Gas",
+      "Oil",
+      "Air"
+    ],
+    "technicalSpecifications": {
+      "Body": "Polypropylene",
+      "Ends": "Screwed & Flanged",
+      "Size Range": "25mm to 300mm",
+      "Make": "CPI"
+    },
+    "variantAttributes": [
+      {
+        "name": "End Connection",
+        "options": [
+          "Flanged End",
+          "Screwed End"
+        ]
+      }
+    ],
+    "extractionStatus": "verified",
+    "reviewNotes": "Documented in Flanged and Screwed end connections from 25mm to 300mm."
+  },
+  {
+    "id": "flowsid-075-pp-diaphragm-valve-cpi",
+    "catalogItemNumber": 75,
+    "sourcePage": 26,
+    "sourceSection": "POLYPROPLENE NRV / DIAPHGM VALVE",
+    "originalName": "ITEM POLYPROPYLENE DIAPHRAGM Valve MAKE : CPI",
+    "displayName": "Polypropylene (PP) Diaphragm Valve (CPI Make)",
+    "slug": "flowsid-075-pp-diaphragm-valve-cpi",
+    "category": "Polypropylene (PP) Valves",
+    "subcategory": "PP Diaphragm Valves",
+    "manufacturerOrMake": "CPI",
+    "descriptionShort": "Polypropylene weir-type diaphragm valve for highly aggressive chemical acids and slurries, made by CPI.",
+    "descriptionLong": "Item 75 is a chemically inert weir-type diaphragm valve manufactured by CPI. Formulated from molded polypropylene to isolate aggressive chemical acids, solvents, and slurries from mechanical bonnet components. Features handwheel operation with rising position indicator. Available with Screwed ends and Flanged ends across sizes 15mm to 150mm.",
+    "image": "/images/products/flowsid-075.png",
+    "imageSourcePage": 26,
+    "materials": {
+      "body": "Polypropylene (PP)",
+      "diaphragm": "PTFE / EPDM Diaphragm",
+      "handwheel": "Plastic / Metal Handwheel"
+    },
+    "design": "Weir Pattern Polypropylene Diaphragm Valve",
+    "connectionTypes": [
+      "Screwed End",
+      "Flanged End"
+    ],
+    "sizeVariants": [
+      {
+        "inch": "1/2\"",
+        "mm": 15
+      },
+      {
+        "inch": "3/4\"",
+        "mm": 20
+      },
+      {
+        "inch": "1\"",
+        "mm": 25
+      },
+      {
+        "inch": "1-1/2\"",
+        "mm": 40
+      },
+      {
+        "inch": "2\"",
+        "mm": 50
+      },
+      {
+        "inch": "2-1/2\"",
+        "mm": 65
+      },
+      {
+        "inch": "3\"",
+        "mm": 80
+      },
+      {
+        "inch": "4\"",
+        "mm": 100
+      },
+      {
+        "inch": "6\"",
+        "mm": 150
+      }
+    ],
+    "pressureRatings": "Chemical process line pressure (up to 10 kg/cm\u00b2)",
+    "temperatureRatings": "Max chemical operating temperature 80\u00b0C",
+    "standards": [
+      "CPI Chemical Standards"
+    ],
+    "testingSpecifications": "Chemical seat and shell pressure tested",
+    "documentedApplications": [
+      "Water",
+      "Steam",
+      "Gas",
+      "Oil",
+      "Air"
+    ],
+    "technicalSpecifications": {
+      "Body": "Polypropylene",
+      "Ends": "Screwed & Flanged",
+      "Size Range": "15mm to 150mm",
+      "Make": "CPI"
+    },
+    "variantAttributes": [
+      {
+        "name": "End Connection",
+        "options": [
+          "Flanged End",
+          "Screwed End"
+        ]
+      }
+    ],
+    "extractionStatus": "verified",
+    "reviewNotes": "Screwed and Flanged options across 15mm to 150mm."
+  },
+  {
+    "id": "flowsid-076-pp-y-type-strainer-cpi",
+    "catalogItemNumber": 76,
+    "sourcePage": 26,
+    "sourceSection": "POLYPROPLENE NRV / DIAPHGM VALVE",
+    "originalName": "ITEM POLYPROPYLENE Y TYPE STRAINER Valve MAKE : CPI",
+    "displayName": "Polypropylene (PP) Y-Type Strainer (CPI Make)",
+    "slug": "flowsid-076-pp-y-type-strainer-cpi",
+    "category": "Polypropylene (PP) Valves",
+    "subcategory": "PP Strainers",
+    "manufacturerOrMake": "CPI",
+    "descriptionShort": "All-polypropylene Y-strainer with removable PP filter basket for chemical particulate removal, made by CPI.",
+    "descriptionLong": "Item 76 is a lightweight, non-metallic Y-type strainer fabricated in high-strength polypropylene by CPI. Protects chemical meters, pumps, and spray nozzles from debris and crystallization in corrosive fluid lines. Features a removable filtration element for easy washdown. Available in Screwed and Flanged ends across sizes 15mm to 150mm.",
+    "image": "/images/products/flowsid-076.png",
+    "imageSourcePage": 26,
+    "materials": {
+      "body": "Polypropylene (PP)",
+      "screen": "Polypropylene Perforated Element"
+    },
+    "design": "Y-Pattern Chemical Strainer, Bolted / Threaded Cover",
+    "connectionTypes": [
+      "Screwed End",
+      "Flanged End"
+    ],
+    "sizeVariants": [
+      {
+        "inch": "1/2\"",
+        "mm": 15
+      },
+      {
+        "inch": "3/4\"",
+        "mm": 20
+      },
+      {
+        "inch": "1\"",
+        "mm": 25
+      },
+      {
+        "inch": "1-1/2\"",
+        "mm": 40
+      },
+      {
+        "inch": "2\"",
+        "mm": 50
+      },
+      {
+        "inch": "2-1/2\"",
+        "mm": 65
+      },
+      {
+        "inch": "3\"",
+        "mm": 80
+      },
+      {
+        "inch": "4\"",
+        "mm": 100
+      },
+      {
+        "inch": "6\"",
+        "mm": 150
+      }
+    ],
+    "pressureRatings": "Chemical piping rating (up to 10 kg/cm\u00b2)",
+    "temperatureRatings": "Polypropylene chemical limit up to 80\u00b0C",
+    "standards": [
+      "CPI Chemical Standards"
+    ],
+    "testingSpecifications": "Hydrostatically pressure tested",
+    "documentedApplications": [
+      "Water",
+      "Steam",
+      "Gas",
+      "Oil",
+      "Air"
+    ],
+    "technicalSpecifications": {
+      "Body": "Polypropylene",
+      "Filter": "PP Screen",
+      "Ends": "Screwed & Flanged",
+      "Size Range": "15mm to 150mm",
+      "Make": "CPI"
+    },
+    "variantAttributes": [
+      {
+        "name": "End Connection",
+        "options": [
+          "Flanged End",
+          "Screwed End"
+        ]
+      }
+    ],
+    "extractionStatus": "verified",
+    "reviewNotes": "Available in Screwed and Flanged ends from 15mm to 150mm."
+  },
+  {
+    "id": "flowsid-077-pp-butterfly-valve-cpi",
+    "catalogItemNumber": 77,
+    "sourcePage": 26,
+    "sourceSection": "POLYPROPLENE NRV / DIAPHGM VALVE",
+    "originalName": "ITEM POLYPROPYLENE BUTTERFLY VALVE MAKE : CPI",
+    "displayName": "Polypropylene (PP) Wafer Butterfly Valve (CPI Make)",
+    "slug": "flowsid-077-pp-butterfly-valve-cpi",
+    "category": "Polypropylene (PP) Valves",
+    "subcategory": "PP Butterfly Valves",
+    "manufacturerOrMake": "CPI",
+    "descriptionShort": "Lightweight polypropylene wafer butterfly valve with lever or gear operator for chemical flow regulation up to 400mm.",
+    "descriptionLong": "Item 77 is a large-diameter chemical wafer butterfly valve manufactured by CPI. Formulated in virgin polypropylene to deliver outstanding chemical resistance and low operating torque in aggressive piping networks. Features a streamlined PP disc, resilient elastomer liner, and stainless steel / coated shaft. Available with Lever operation (50mm to 200mm) and Gear operator (150mm to 400mm).",
+    "image": "/images/products/flowsid-077.png",
+    "imageSourcePage": 26,
+    "materials": {
+      "body": "Polypropylene (PP)",
+      "disc": "Polypropylene (PP)",
+      "seat": "EPDM / Viton Resilient Liner"
+    },
+    "design": "Wafer Type Polypropylene Butterfly Valve, Lever / Gear Operated",
+    "connectionTypes": [
+      "Wafer Flange Fitment"
+    ],
+    "sizeVariants": [
+      {
+        "inch": "2\"",
+        "mm": 50
+      },
+      {
+        "inch": "2-1/2\"",
+        "mm": 65
+      },
+      {
+        "inch": "3\"",
+        "mm": 80
+      },
+      {
+        "inch": "4\"",
+        "mm": 100
+      },
+      {
+        "inch": "6\"",
+        "mm": 150
+      },
+      {
+        "inch": "8\"",
+        "mm": 200
+      },
+      {
+        "inch": "10\"",
+        "mm": 250
+      },
+      {
+        "inch": "12\"",
+        "mm": 300
+      },
+      {
+        "inch": "16\"",
+        "mm": 400
+      }
+    ],
+    "pressureRatings": "Chemical process line pressure rating",
+    "temperatureRatings": "Max PP operating temperature 80\u00b0C",
+    "standards": [
+      "CPI Chemical Standards"
+    ],
+    "testingSpecifications": "Seat and shell pressure leak tested",
+    "documentedApplications": [
+      "Water",
+      "Steam",
+      "Gas",
+      "Oil",
+      "Air"
+    ],
+    "technicalSpecifications": {
+      "Body": "Polypropylene",
+      "Operation Range": "Lever (50-200mm) / Gear (150-400mm)",
+      "Size Range": "50mm to 400mm",
+      "Make": "CPI"
+    },
+    "variantAttributes": [
+      {
+        "name": "Operation",
+        "options": [
+          "Lever Operated (50mm to 200mm)",
+          "Gear Operated (150mm to 400mm)"
+        ]
+      }
+    ],
+    "extractionStatus": "verified",
+    "reviewNotes": "Lever operated 50-200mm; Gear operated 150-400mm."
+  },
+  {
+    "id": "flowsid-078-pp-sight-glass-cpi-shree-ram",
+    "catalogItemNumber": 78,
+    "sourcePage": 26,
+    "sourceSection": "POLYPROPLENE NRV / DIAPHGM VALVE",
+    "originalName": "ITEM POLYPROPYLENE PP SIDE GLASS MAKE : CPI/Shree Ram",
+    "displayName": "Polypropylene (PP) In-Line Sight Glass (CPI / Shree Ram)",
+    "slug": "flowsid-078-pp-sight-glass-cpi-shree-ram",
+    "category": "Polypropylene (PP) Valves",
+    "subcategory": "PP Sight Glasses",
+    "manufacturerOrMake": "CPI / Shree Ram",
+    "descriptionShort": "Chemical-resistant polypropylene tubular sight glass with transparent viewing cylinder for corrosive fluid lines.",
+    "descriptionLong": "Item 78 is a full-view cylindrical sight glass designed for aggressive acid and alkali piping lines. Manufactured from virgin polypropylene end connectors and tie-rods by CPI / Shree Ram, housing a heavy-wall borosilicate or toughened acrylic viewing tube. Allows 360-degree visual flow monitoring across sizes 1\" (25mm) to 12\" (300mm).",
+    "image": "/images/products/flowsid-078.png",
+    "imageSourcePage": 26,
+    "materials": {
+      "body": "Polypropylene (PP)",
+      "glass": "Borosilicate / Toughened Glass Tube",
+      "tieRods": "Polypropylene / Coated Steel"
+    },
+    "design": "Full-View Tubular In-Line Sight Flow Indicator",
+    "connectionTypes": [
+      "Flanged Ends"
+    ],
+    "sizeVariants": [
+      {
+        "inch": "1\"",
+        "mm": 25
+      },
+      {
+        "inch": "1-1/2\"",
+        "mm": 40
+      },
+      {
+        "inch": "2\"",
+        "mm": 50
+      },
+      {
+        "inch": "2-1/2\"",
+        "mm": 65
+      },
+      {
+        "inch": "3\"",
+        "mm": 80
+      },
+      {
+        "inch": "4\"",
+        "mm": 100
+      },
+      {
+        "inch": "6\"",
+        "mm": 150
+      },
+      {
+        "inch": "8\"",
+        "mm": 200
+      },
+      {
+        "inch": "10\"",
+        "mm": 250
+      },
+      {
+        "inch": "12\"",
+        "mm": 300
+      }
+    ],
+    "pressureRatings": "Chemical piping pressure rating",
+    "temperatureRatings": "Max PP operating temperature 80\u00b0C",
+    "standards": [
+      "CPI / Shree Ram Chemical Standards"
+    ],
+    "testingSpecifications": "Pressure leak tested",
+    "documentedApplications": [
+      "Water",
+      "Steam",
+      "Gas",
+      "Oil",
+      "Air"
+    ],
+    "technicalSpecifications": {
+      "Body": "Polypropylene",
+      "Viewing Tube": "Transparent Tube",
+      "Size Range": "25mm to 300mm",
+      "Make": "CPI / Shree Ram"
+    },
+    "variantAttributes": [
+      {
+        "name": "Size",
+        "options": [
+          "1\"",
+          "1-1/2\"",
+          "2\"",
+          "2-1/2\"",
+          "3\"",
+          "4\"",
+          "6\"",
+          "8\"",
+          "10\"",
+          "12\""
+        ]
+      }
+    ],
+    "extractionStatus": "verified",
+    "reviewNotes": "Preserves CPI / Shree Ram make; covers sizes from 25mm to 300mm."
+  }
+]

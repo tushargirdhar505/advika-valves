@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+
+# Next.js
+.next/
+out/
+
+# Production
+build/
+dist/
+
+# Scratch & logs
+scratch/
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+*.pem
